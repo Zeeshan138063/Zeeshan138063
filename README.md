@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zeeshan 
-- 👀 I’m interested in Python, Django,Djagno DRF, GO, JavaScript, AWS 
+- 👀 I’m interested in Python, Django,Djagno DRF, Flask, GO, JavaScript, AWS, Lambdas, MongoDB
 - 🌱 I’m currently learning GO
 - 💞️ I’m looking to collaborate on Django and GO, DRF, GraphQL
 - 📫 Reach me via zeeshan.nu@outlook.com
