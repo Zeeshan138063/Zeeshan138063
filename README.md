@@ -1,15 +1,25 @@
 # 👋 Hi, I’m Muhammad Zeeshan!
+I am a **Software Engineering graduate** with **7+ years of experience** specializing in **backend development**, **cloud solutions**, **AI/ML technologies**, and **web scraping**. My focus is on delivering impactful, scalable, and efficient solutions for complex technical challenges.
+### 🔍 Achievements
+- Designed and implemented **web scraping systems** that improved data extraction performance by **75%** while reducing infrastructure costs significantly.
+- Successfully contributed to scalable and reliable backend solutions for diverse industries, leveraging modern tools and methodologies.
+- Actively pursuing expertise in **AI/ML technologies** to enhance solution delivery and stay at the cutting edge of innovation.
 
-- 💡 I am a Software Engineering graduate with 7+ years of experience in backend development, cloud solutions, AI/ML technologies, and web scraping.
-- 🛠️ My expertise includes Python, Django, Django REST Framework (DRF), Flask, FastAPI, and Go, along with cloud platforms like AWS (Lambda, API Gateway, S3, EC2). I also specialize in databases such as PostgreSQL, MongoDB, and message systems like Redis, RabbitMQ, and Kafka.
-- 🔍 I have extensive experience in building efficient and scalable web scraping systems using tools like Scrapy, Selenium, and Beautiful Soup. My scraping solutions have improved data extraction performance by up to 75% and reduced infrastructure costs significantly.
-- 🌱 I am passionate about simplifying complex problems, exploring innovative tools, and delivering scalable, efficient solutions. Currently, I am expanding my skills in Go programming and AI/ML technologies.
-- 💞️ I am open to collaborating on projects involving Django, Go, DRF, GraphQL, backend systems, cloud engineering, web scraping, and AI-driven solutions.
-- ✍️ In my free time, I enjoy experimenting with AI models, listening to music, reading books, and exploring the latest trends in technology.
-- 💬 I am actively seeking opportunities in Backend Development, Cloud Engineering, Web Scraping, and AI/ML. Feel free to reach out for collaborations, volunteering, or even a friendly tech discussion!
-- 📫 **Contact Me:** You can reach me at **zeeshan.nu@outlook.com** for opportunities or interesting discussions.
+### 🤝 Let’s Collaborate
+I am eager to work on:
+- **Backend Development**  
+- **Cloud Engineering**  
+- **Web Scraping**  
+- **AI/ML Solutions**
 
+Whether you’re building a cutting-edge product or solving challenging problems, I’d love to collaborate and bring ideas to life.
 
+### 📬 Get in Touch
+- <a href="mailto:zeeshan.nu@outlook.com"><img src="https://img.shields.io/badge/-Email%20Me-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/muhammad-zeeshan-nu"><img src="https://img.shields.io/badge/-Muhammad%20Zeeshan-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="http://web.zeeshare.com"><img src="https://img.shields.io/badge/-Visit%20My%20Website-0A66C2?style=flat-square&logo=internet-explorer&logoColor=white"/></a>
+
+ 
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -94,9 +104,9 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=surapuramakhil&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=surapuramakhil&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+<a href="https://github.com/zeeshan138063">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zeeshan138063&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zeeshan138063&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
 </p>
 
