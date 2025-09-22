@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Muhammad Zeeshan!
-I am a **Software Engineering graduate** with **7+ years of experience** specializing in **backend development**, **cloud solutions**, **AI/ML technologies**, and **web scraping**. My focus is on delivering impactful, scalable, and efficient solutions for complex technical challenges.
+I am a **Software Engineering graduate** with **8+ years of experience** specializing in **backend development**, **cloud solutions**, **AI/ML technologies**, and **web scraping**. My focus is on delivering impactful, scalable, and efficient solutions for complex technical challenges.
 ### 🔍 Achievements
 - Designed and implemented **web scraping systems** that improved data extraction performance by **75%** while reducing infrastructure costs significantly.
 - Successfully contributed to scalable and reliable backend solutions for diverse industries, leveraging modern tools and methodologies.
